@@ -1,10 +1,22 @@
 # GitHub
 
 ## How to push code to GitHub
+```
 - git add
 - git commit -m "your content"
 - git push origin <your-branch>
+```
 
+# ReactJS
+
+## How to start the web in terminal
+```
+- npm start
+```
+## How to install the library
+```
+- npm i( npm install)
+```
 
 # Config_JAVA_WEB
 
