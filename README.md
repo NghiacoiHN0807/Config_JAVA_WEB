@@ -1,9 +1,12 @@
-# Config_JAVA_WEB
+#GitHub
 
 ## How to push code to GitHub
 - git add
 - git commit -m "your content"
 - git push origin <your-branch>
+
+
+# Config_JAVA_WEB
 
 ## Config jsp 
 ```
