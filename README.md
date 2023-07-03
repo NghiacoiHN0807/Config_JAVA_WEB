@@ -1,4 +1,4 @@
-#GitHub
+# GitHub
 
 ## How to push code to GitHub
 - git add
