@@ -3,7 +3,7 @@
 ## How to push code to GitHub
 - git add
 - git commit -m "your content"
-- git push origin <your branch>
+- git push origin <your-branch>
 
 ## Config jsp 
 ```
